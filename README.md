@@ -1,3 +1,3 @@
-# Addon Name
+# Chatter
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for Chatter. Modified for Ascension.gg. 
